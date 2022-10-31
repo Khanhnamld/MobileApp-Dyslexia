@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "982031317338",
+    "project_id": "ubest-1eb6a",
+    "storage_bucket": "ubest-1eb6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982031317338:android:8d5a8fb328d745ad589b63",
+        "android_client_info": {
+          "package_name": "com.example.flutter_task_planner_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982031317338-ho5l5up71ae02m7id278nl4i08egb7vc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxvqhZbx53VKLPHHCwQlTl15Ftc0xPqOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982031317338-ho5l5up71ae02m7id278nl4i08egb7vc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

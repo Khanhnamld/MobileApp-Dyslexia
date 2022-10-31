@@ -1,0 +1,16 @@
+{
+    "Cay": [
+        {
+            "id" : 1,
+            "title": "Cay rau muong",
+            "body": "Xà lách là loại rau quen thuộc, phổ biến trong nhiều món ăn và được nhiều người yêu thích. Trong xà lách có rất nhiều chất xơ và vitamin A, K, C hỗ trợ tăng cường hệ miễn dịch và hệ tiêu hóa. Việc sở hữu một vườn xà lách ngay tại nhà sẽ giúp gia đình bạn yên tâm hơn về vấn đề sức khỏe",
+            "img_url": "https://khuyennongtphcm.com/wp-content/uploads/2020/08/rau-muong.jpg"
+        },
+        {
+            "id" : 2,
+            "title": "Cay bap cai",
+            "body": "Xà lách là loại rau quen thuộc, phổ biến trong nhiều món ăn và được nhiều người yêu thích. Trong xà lách có rất nhiều chất xơ và vitamin A, K, C hỗ trợ tăng cường hệ miễn dịch và hệ tiêu hóa. Việc sở hữu một vườn xà lách ngay tại nhà sẽ giúp gia đình bạn yên tâm hơn về vấn đề sức khỏe",
+            "img_url": "https://tracuuduoclieu.vn/wp-content/uploads/2018/04/cai-bap.jpg"
+        }
+    ]
+}
